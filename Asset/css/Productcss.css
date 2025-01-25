@@ -1,0 +1,43 @@
+body{ background-color:red(126, 117, 98);
+
+}
+div.main{
+width:400px;
+margin:100px auto 0px auto;
+}
+ h2{
+text-align:center;
+padding: 20px;
+font-family:sans-serif;
+}
+ h3{
+text-align: center;
+padding: 10px;
+font-family:Arial, Helvetica, sans-serif;
+} 
+div.Register {
+background-color: rgba(0,0,0,0.5);
+width:100%;
+font-size:12px;
+border-radius: 10px;
+border:1px solid rgba(0, 39, 138, 0.3);
+box-shadow:2px 2px 15px rgba(0,0,0,0.3);
+color: #fff;
+} 
+input#name{
+width:200;
+border:1.5px solid #ddd;
+border-radius:3px;
+padding:8px;
+box-shadow:inset 1px 1px 5px rgba(0,0,0,0.9);
+}
+input#submit{
+width:200px;
+font-size: 22px;
+font-family: 'Courier New';
+background-color: rgb(226, 217, 30);
+padding:7px;
+font-weight: 600;
+
+}
+

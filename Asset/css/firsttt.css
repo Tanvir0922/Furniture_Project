@@ -1,0 +1,117 @@
+*{
+    margine:0;
+    padding:0;
+    box-sizing:border-box;
+    scroll-behaviour:smoot;
+    scroll-padding-top:2rem;
+    list-style:none;
+    text-decoration:none;
+    font-family:"poopins",sans-selfi;
+    }
+    :root{
+    text-color:#000000;
+    main-color:#83b753;
+    }
+    body
+    {
+        background-color: red;
+    }
+    header{
+    position:fixed;
+    width:100%;
+    top:0;
+    right:0;
+    z-index:1000;
+    display:flex:
+    align-items:center;
+    justify-content:space-between;
+    padding:18px 100px;
+    background:#edecea;
+    }
+    .logo{
+        font-size:1.2rem;
+        font-weight:600;
+        colorvar(text-color);
+    }
+    .logo span{
+        color:var(min-color);
+    }
+    .navbar{
+        position:relative;
+        display:flex;
+    }
+    .navbar a{
+        font-size:rem;
+        padding:10px;
+        font-weight:500;
+        color:var(text-color);
+    }
+    .navbar a:hover{
+        color:var(main-color);
+    }
+    menu-icon{
+        font-size:2rem;
+        cursor:pointer;
+        display:none;
+    }
+    .home{
+
+        width:100%;
+        min-height:100vh;
+        background-image: url();
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        display:flex;
+        align-items: center;
+    }
+    .home-text h1{
+        font-size:2.7rem;
+    }
+    .home-text p{
+        font-size: 0.938rem;
+        margin:0.4rem 0 1.8rem;
+    }
+    .home-text span{
+        color:var(main-color);
+    }
+    .btn{
+        padding:10px 14px;
+        background: var(main-color);
+        color: #fff;
+        border-radius: 0.3rem;
+        font-size:14px;
+    }
+    .btn:hover{
+        background: #83b753;
+    }
+    .title-price {
+        display:flex;
+        justify-content: space-between;
+        padding: 12px;
+    }
+    .title-price h3{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    .box span{
+        font-size:1rem;
+        font-weight: 500;
+        padding-left: 12px;
+        color:(main-color);
+    }
+    .box .bx-cart{
+        position:absolute;
+        bottom:0;
+        right:0;
+        padding: 7px;
+        font-size:20px;
+        color:#fff;
+        border-radius: 4px 0 4px 0;
+        background: var(main-color);
+    }
+    .box .bx-cart:hover{
+        background: #8f538f
+    }
+    .new-contaioner.box.box-img

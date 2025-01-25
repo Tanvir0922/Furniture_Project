@@ -1,0 +1,216 @@
+
+   body {
+    background-color: rgb(5, 4, 4)
+}
+
+.header-main {
+    position: relative;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #060809
+}
+
+.logo {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600
+}
+
+.brand-wrap {
+    text-decoration: none !important
+}
+
+.icon-sm {
+    width: 48px;
+    height: 48px;
+    line-height: 48px !important;
+    font-size: 20px
+}
+
+.widget-header {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative
+}
+
+.widget-header .notify {
+    position: absolute;
+    top: -3px;
+    right: -10px
+}
+
+.notify {
+    position: absolute;
+    top: -4px;
+    right: -10px;
+    display: inline-block;
+    padding: .25em .6em;
+    font-size: 12px;
+    line-height: 1;
+    text-align: center;
+    border-radius: 3rem;
+    color: rgb(130, 22, 332);
+    background-color: #fa3434
+}
+
+.mr-3,
+.mx-3 {
+    margin-right: 1rem !important
+}
+
+.search-form {
+    border: 1px solid #c95252 !important
+}
+
+.search-button {
+    color: #007bff;
+    background-color: #ffffff;
+    border-color: #ffffff
+}
+
+.navbar-main {
+    background-color: #fff
+}
+
+.navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.1) !important
+}
+
+.navbar-toggler {
+    padding: 4px;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.37rem
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .5rem 7px 0px;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-radius: .25rem
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .45rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0
+}
+
+.navbar-toggler-icon {
+    background-image: url(https://img.icons8.com/ios/50/000000/menu.png)
+}
+
+.nav-link {
+    text-transform: uppercase;
+    font-weight: 400
+}
+
+.vl {
+    border-left: 1px solid #fff;
+    height: 100%
+}
+
+.fas {
+    color: rgb(17, 10, 10)
+}
+
+.login {
+    color: rgb(15, 5, 5)
+}
+
+
+
+
+
+
+ /* your CSS goes here*/
+ 
+ .icon-box i { margin:25px;}
+ .i-large-box{ width:100px; height:100px; line-height:98px; text-align:center; font-size:40px}
+ .i-medium-box{ width:80px; height:80px; line-height:80px; text-align:center; font-size:30px;}
+ .i-small-box{ width:60px; height:60px; line-height:60px; text-align:center; font-size:22px}
+ .i-extra-small-box{ width:40px; height:40px; line-height:40px; text-align:center; font-size:15px}
+ .i-plain { color:#737373; background-color: transparent !important;}
+ .i-plain:hover { color:#fff; background-color: #737373!important; -webkit-transform: scale(1.2); -moz-transform: scale(1.2); -o-transform: scale(1.2); -ms-transform: scale(1.2); transform: scale(1.2);}
+ .i-rounded  { border-radius: 3px; background-color: #000; color:#fff; border:1px solid rgba(0,0,0,0.15);} 
+  
+ .container{
+     
+     margin-top:200px;
+ } 
+  
+  
+  .i-plain:hover {
+     color: #fff;
+     background-color: green!important;
+     -webkit-transform: scale(1.2);
+     -moz-transform: scale(1.2);
+     -o-transform: scale(1.2);
+     -ms-transform: scale(1.2);
+     transform: scale(1.2);
+ }
+ 
+
+
+
+ .dropdown {
+    position: relative;
+   }
+   
+   .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+   }
+   
+   .dropdown-content select {
+    display: block;
+    width: 100%;
+    padding: 12px 16px;
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+    cursor: pointer;
+   }
+   
+   .dropdown:hover .dropdown-content {
+    display: block;
+   }
+   
+   .dashboard {
+    display: none;
+    padding: 20px;
+   } */
+
+
+
+ 

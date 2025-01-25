@@ -1,0 +1,31 @@
+css
+.card {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-container {
+  flex: 1;
+}
+
+.image-container img {
+  max-width: 100%;
+}
+
+.content-container {
+  flex: 1;
+  padding: 1rem;
+}
+
+.features-container {
+  margin-top: 2rem;
+}
+
+.features-container h5 {
+  font-weight: bold;
+}
+
+.features-container ul {
+  list-style-type: disc;
+  padding-left: 1rem;
+}
